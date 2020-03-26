@@ -1,0 +1,26 @@
+{
+  "name": "test-for-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "eslint-plugin-lodash-to-native": "git+https://github.com/namtyda/eslint-plugin-lodash-to-native.git"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "lodash": "^4.17.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namtyda/test-for-ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namtyda/test-for-ci/issues"
+  },
+  "homepage": "https://github.com/namtyda/test-for-ci#readme"
+}
