@@ -1,3 +1,3 @@
 
 const arr = []
-_.map(arr, function (item) {return item});
+_.map(arr, function (item) {return item})
