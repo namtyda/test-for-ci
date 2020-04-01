@@ -1,3 +1,3 @@
 
-const arr = [1235467]
+const arr = [12354676]
 _.map(arr, function (item) {return item})
